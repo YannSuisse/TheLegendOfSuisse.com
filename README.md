@@ -1,0 +1,2 @@
+print(Yann == Suisse)
+>>> True
